@@ -1,0 +1,42 @@
+% Nottingham Music Database
+S:NPTB, via EF
+Y:AB
+M:6/8
+K:A
+P:A
+E|"A"A3 A2c|"A"efg "D"f2e|"A"cec Acc|"A"ABA "D"A2:|
+P:B
+c/2d/2|"A"e2e ece|"D"f2a agf|"A"e2c c2c|"Bm"dcd "E7"Bcd|
+"A"e2c cBA|"E"G2B EFG|"A"A3 -A2c|"Bm"dcd "E7"Bcd|\
+"A"c3 "A7"A2^G|"D"F2A d2=c|
+"Bm"dcB "F#m"ABc|"Bm"B2c d2e|"G"dBG "F#m"FGA|"Bm"B2c "A"BcA|
+"D"d2d "A"cBc|"Bm"Bcd "A"cBA|"D"dcd "E7"edB|"A"c3 -A2:|
+
+
+X: 98
+T:Fpather's Dancy
+% Nottingham Music Database
+S:John Goodacre 1984, via Phil Rowe
+M:6/8
+K:G
+D3 |"G"d2d d^cd|edc BAG|"D7"A3/2A/2B e2^c|"G"d3/2B/2c def|
+"C"e3 -e2c|"G"d2B g2g|"Am"a2a "D"agf|"A7"e3/2d/2c "D"d|
+"E7"e2e e2d|"C"c2g "Em"e2d|"Am"c2c "D7"ABc|"G"B2c "D7"d2c/2d/2|
+"C"efg "G/b"d2B|"A7"c2c dec| [1"D7"d^cd fed| [1"G"g3/2b/2g e2g|
+"Am"c2A cBA|"D7"d3/2e/2d def|"G"g3/2B/2A "D7"cBA|"G"G3 G3||
+
+
+X: 108
+T:The 2pen
+% Nottingham Music Database
+S:For Pat's Tradition, via Phil Rowe
+M:6/8
+K:D
+"D"f2d f2a|d2f a2f|"Em"g2f efg|"D"fgf fed|
+"D"ABA AFA|dBd fed|"C"cdc edc|"Bm"d^cd fed|
+"Em"cBe gfe|"Em"BdB GBd|"A7"efe ABc|"D"d3 d2:|
+
+
+X: 244
+T:Pizke L
+

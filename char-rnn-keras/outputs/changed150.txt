@@ -1,0 +1,41 @@
+d |"A7"cBA gfe|
+"D"f3 "A7"f3|"D"fed "A"cBA|"G"dcB "D"AGF|"Em"GFE "A7"EFG|
+"D"AFA dfA|"D"dfa afd|"D"ABd "A"cBA|"D"dcd "A"efe|
+"D"dBA AGF|"G"BDD GFE|"D"DFA "C"GEG|"D"FED AFD|
+"D"dFA AGF|"D"AGA "C"=GEG|"D"FAd "A"cBA|"G"Bcd "A7"efg|
+"D"fdf def|"G"gba "A7"gfe|"G"ded dBG|"D"AGF "G"G2:|
+
+
+X: 273
+T:Scrabbbe O's
+% Nottingham Music Database
+S:Chris Dewhurst 1982, via Phil Rowe
+M:6/8
+K:D
+"A7"A2|"D"DFA B2A|FGA d2A|"D"dcd "A"edc|"Bm"f2d "Em"B2d|"A7"cec ABc|"D"d3 :|
+
+
+X: 286
+T:Scramble On Lase
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+|:d|"D"d2A A2d|"A"e2d cBA|"D"F2A d2e|"Bm"f2f "E7"e2d|
+"A"c2c ABc|"Em"d2B "A7"ABc|"D"d2d "A"edc|"Bm"d2B "Em"G2G|"A7"ABc "D"d2:|
+P:B
+d|"A"e2f e2f|"A"e2c A2f|"A7"ecA ABc|"D"d2f "A"edc|\
+"G"B2B "D"A2F|"Em"G2G "A7"EFG|
+"D"A2A "D7"AGF|"G"G2B "D"A2A|"G"G2B "D"A2f|"Em"fed "A"cBA|
+"G"Bcd "D"A2d|"A7"cdc "G"B2d|"D"ABA "A7"GFE|
+"D"DFA d2A|"G"B2G "D"AFA|"G"Bcd "D"AGF|"Em"GEE "A"E3:|
+
+
+X: 232
+T:Paddy Ahec
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+fe|"D"d2A A2F|"G"GAB "D"
+

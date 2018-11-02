@@ -1,0 +1,23 @@
+c/2d/2e/2d/2|ec/2A/2B/2A/2 a/2g/2f/2e/2d/2^c/2|\
+"Am"B2A c2A|G3 -A2B|c3 -c2:|
+"Am"A|cee eAA|BG/2c/2d/2B/2 d/2c/2B/2A/2B/2c/2A/2|EAc BcA|G4||
+P:H
+Bc|d/2c/2B/2c/2AB/2c/2 B/2c/2d/2B/2|d3/2B/2d/2B/2 edB|
+eAG cBc|d3/2B/2d/2B/2 e3/2B/2d/2B/2|d3/2B/2d/2B/2 e3/2B/2e/2B/2|d3/2B/2d/2c/2 BAG|EAc BcA|G4||
+P:H
+Bc|d3/2B/2d/2B/2 e3/2B/2e/2|eBc BAG|\
+|:A/2B/2c/2A/2 a/2g/2f/2e/2d/2^c/2|
+d3/2B/2d/2B/2 d/2c/2B/2c/2d/2B/2|dBg dBG|\
+cBA B2c|d7B/2c/2d/2B/2 e3/2B/2e/2d/2B/2|
+dBa/2a/2g/2d/2c/2B/2A/2G/2 e/2d/2e/2d/2|E3/2B/2c/2)BA G2:|
+c/2d/2B/2 d/2c/2B/2|e/2c/2d/2B/2 e2g|e2d cBA|
+cBA BAG|B/2c/2d/2B/2 bag/2d/2|/Ad/2c/2B/2A/2 e/2B/2c/2d/2B/2|dBg dBG|\
+c/2B/2A/2G/2 e/2d/2c/2B/2A/2G/2|E3/2G/2B/2A/2 a3/2d/2e/2d/2^c/2|
+"G"dBG DGB|dBG D3|"G"dBG DGB|dBG d3|"A7"A^^cc a2g|
+"D7"a^gf d2c|"G"BGB d^cd|edc BAG|"D"AGF "G"G3|
+"D7"FGA DEF|"G"GFG BAG|"D"FEF AFD|"G"G^FG "D7"FGA|"G"BFG G2:|
+P:D
+|:d/2c/2|"G"Bcd Bcd|"C"e2c "D7"c2c|"G"B2G BcB|"D7"c2B A2c|
+"G"BdB G2B|"D7"AFD DEF|"G"GAG B2d|"G"dBG "D7"F2A|
+"G"B2B BAG|"D"A2G AGF|"Em"GEE "D7"E2D
+
