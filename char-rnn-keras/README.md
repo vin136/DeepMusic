@@ -4,7 +4,7 @@ Multi-layer recurrent neural networks for training and sampling from texts, insp
 
 ### Requirements
 
-This code is written in Python 2, and it requires the [Keras](https://keras.io) deep learning library.
+This code is written in Python 3 and it requires the [Keras](https://keras.io) deep learning library.
 
 ### Usage
 
@@ -20,4 +20,4 @@ To sample the model:
 $ python sample.py 100
 ```
 
-Training loss/accuracy is stored in `logs/training_log.csv`.
+The sampled outputs can be seen in the `outputs` folder.The outputs are sampled from two models .The model consists of three layer lstm with recurrent dropout.You can look at the output file trained without reccurent dropout(plain dropout) in To listen to the output live paste any one of the outputs [here](https://abcjs.net/abcjs-editor.html)...enjoy.
