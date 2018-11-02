@@ -22,7 +22,7 @@ To sample the model:
 $ python sample.py 100
 ```
 
-The sampled outputs can be seen in the `outputs` folder.The outputs are sampled from two models .The model consists of three layer lstm with recurrent dropout.You can look at the output file trained without reccurent dropout(plain dropout) orginal100.txt.To listen to the output live paste any one of the outputs [here](https://abcjs.net/abcjs-editor.html)...enjoy.)
+The sampled outputs can be seen in the `outputs` folder.The outputs are sampled from two models .The model consists of three layer lstm with recurrent dropout.You can look at the output file trained without reccurent dropout(plain dropout) `orginal100.txt`.To listen to the output live paste any one of the outputs [here](https://abcjs.net/abcjs-editor.html)...enjoy....)
 
 
-The sampled outputs can be seen in the `outputs` folder.The outputs are sampled from two models .The model consists of three layer lstm with recurrent dropout.You can look at the output file trained without reccurent dropout(plain dropout) orginal100.txt.To listen to the output live paste any one of the outputs [here](https://abcjs.net/abcjs-editor.html)...enjoy.
+
