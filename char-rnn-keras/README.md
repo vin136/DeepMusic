@@ -1,4 +1,6 @@
-# char-rnn-keras
+# DeepMusic-keras
+Here's an lstm composing some music(for some hype...):
+[Check me out]()
 
 Multi-layer recurrent neural networks for training and sampling from texts, inspired by [karpathy/char-rnn](https://github.com/karpathy/char-rnn).
 
