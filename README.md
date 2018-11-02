@@ -1,5 +1,7 @@
 # DeepMusic
 Here's a LSTM generating some convincing music
+
+
 ![](https://github.com/vin136/DeepMusic/blob/master/myrnn.png)
 
 Multi-layer recurrent neural networks for training and sampling from texts, inspired by [karpathy/char-rnn](https://github.com/karpathy/char-rnn).
